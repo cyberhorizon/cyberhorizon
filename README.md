@@ -3,7 +3,7 @@
 - ⌚나이:21살                
 - 🌱좋아하는것:자동차
 - 🌱취미:사진찍기
-- 🎮자주하는 게임:유로트럭2, 원신
+- 🎮자주하는 게임:유로트럭2, 원신,블루 아카이브
   
 <!--
 **cyberhorizon/cyberhorizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
